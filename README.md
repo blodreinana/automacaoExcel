@@ -24,16 +24,6 @@ O objetivo é buscar automaticamente as cotações atuais de ações brasileiras
 - [Requests](https://docs.python-requests.org/)
 - [openpyxl](https://openpyxl.readthedocs.io/) (para leitura/escrita de arquivos Excel)
 
----
-
-Estrutura do projeto
-bash
-Copiar
-Editar
-automacao-excel-cotacoes/
-├── main.py                   # Script principal com toda a automação
-├── empresas_info.xlsx        # Gerado automaticamente com nome/código das empresas
-└── cotacoes_atualizadas.xlsx # Resultado final com cotações atualizadas
 
  Autoria
 Feito por Allana Helena Campos Albino com durante os estudos de automação em Python e Análise de Dados.
